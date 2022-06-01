@@ -19,9 +19,9 @@ https://user-images.githubusercontent.com/69623904/171382859-49bbecf5-9e52-4550-
 
 
 
-## What you will learn
+## What I will get
 
-- How to incorporate Firebase into your Flutter projects.
+- How to incorporate Firebase into my Flutter projects.
 - How to use Firebase authentication to register and sign in users.
 - How to create beautiful animations using the Flutter Hero widget.
 - How to verify email through email verification link.
