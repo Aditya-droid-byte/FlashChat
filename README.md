@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![image](https://user-images.githubusercontent.com/69623904/171379794-959f1f84-873a-4ee0-9fe1-d5c937fd714d.png)
 
 
 # Flash Chat ⚡️
