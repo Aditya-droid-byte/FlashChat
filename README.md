@@ -13,7 +13,7 @@ The objective of this app is to learn how to incorporate Firebase into Flutter a
 I am going to build a modern messaging app where users can sign up and log in to chat with email verification, Using firebase to do backend magics.
 
 ![Finished App]
-The video will get blacked out while entering password, So please bare with it🙏🙏🙏🙏
+The video will get blacked out while entering the password, So please bare with it🙏🙏🙏🙏
 
 https://user-images.githubusercontent.com/69623904/171382859-49bbecf5-9e52-4550-99bc-b66c9b7fb262.mp4
 
